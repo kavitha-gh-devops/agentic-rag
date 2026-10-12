@@ -1,0 +1,8 @@
+crewai[tools,litellm]>=1.15.0,<2
+langchain-community>=0.3,<1
+tavily-python
+sentence-transformers
+python-dotenv
+reportlab
+pandas
+jupyterlab
